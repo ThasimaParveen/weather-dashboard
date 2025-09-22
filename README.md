@@ -13,3 +13,5 @@ A simple **JavaScript-based Weather Dashboard** that fetches **real-time weather
 - CSS  
 - JavaScript  
 - OpenWeather API
+
+⚠️ Note: Replace "YOUR_API_KEY_HERE" in script.js with your own OpenWeather API key.
